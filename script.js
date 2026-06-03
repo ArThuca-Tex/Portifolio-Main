@@ -1,5 +1,5 @@
 //input Handling
-
+//teste
 var input = {
     keys:[],
     mouse:{
